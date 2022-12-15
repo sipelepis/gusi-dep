@@ -1,0 +1,12 @@
+{
+    "apps": [
+        {
+           "name": "gusi-ui",
+           "cwd": "/home/dspace/gusi-dep",
+           "script": "dist/server/main.js",
+           "env": {
+              "NODE_ENV": "production"
+           }
+        }
+    ]
+}
