@@ -7,17 +7,29 @@ In-depth DSpace installation guide: https://wiki.lyrasis.org/display/DSDOC7x/Ins
 System Requirements for GUSI backend and frontend:
 
 OS - Ubuntu 22.04 (Jammy Jellyfish)
+
 Java JDK - 11 (openjdk)
+
 Apache Maven 3.8.6
+
 PostgreSQL 13
+
 Apache Solr 8.11.2
+
 Apache Tomcat 9
+
 MaxMind GeoIP
+
 Apache2
+
 NodeJS v 14.x or v 16.x
+
 Yarn v1.x or better
+
 pm2
+
 Git
+
 
 Steps to intall the GUSI backend:
 
@@ -65,5 +77,3 @@ Starting the GA analytics REST API:
 NOTE: YOU MUST CONFIGURE THE config.prod.yml and set there your proper domain for the RESTful API and for localhost.
 
 For more questions, you can reach me out via my UE Gmail account: moran.phillipjan@ue.edu.ph
-
-
